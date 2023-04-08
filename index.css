@@ -1,0 +1,23 @@
+* {
+   
+    margin: 0;
+    padding: 0;
+}
+.dino {
+    background-image:url(c94def6ca8099465c680e38d7ae43b8e.jpg);
+    position: absolute;
+    bottom: 0;
+    width: 380px;
+    height: 380px;
+
+}    
+.background{
+    background-image: url(2dd2843a7dfbe198f5ac3997e01de5f2.jpg);
+    background-repeat: repeat-x;
+    position: absolute;
+    bottom: 10px;
+    width: 100px;
+    height: 300px;
+
+}
+   
